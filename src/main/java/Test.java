@@ -7,4 +7,6 @@
  */
 public class Test {
     private int a = 5;
+
+    public void ss(){}
 }
