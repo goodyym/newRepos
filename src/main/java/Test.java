@@ -6,7 +6,7 @@
  * @Time:1
  */
 public class Test {
-    private int a = 5;
+    private int a = 56;
 
     public void ss(){}
 }
