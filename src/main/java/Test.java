@@ -8,5 +8,7 @@
 public class Test {
     private int a = 56;
 
-    public void ss(){}
+    public void ss(){
+        System.out.println("kkkkkkkk");
+    }
 }
