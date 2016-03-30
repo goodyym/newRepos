@@ -7,7 +7,6 @@
  */
 public class Test {
     private int a = 56;
-    private String b = "yy";                      
     private String b = "yttty";
 
     public void ss(){
