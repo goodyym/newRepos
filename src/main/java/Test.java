@@ -7,7 +7,7 @@
  */
 public class Test {
     private int a = 56;
-    private String b = "yy";
+    private String b = "yy";                      
 
     public void ss(){
         System.out.println("kkkkkkkk");
